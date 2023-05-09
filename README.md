@@ -12,7 +12,8 @@ Repositori ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu 
 
 ## Kontributor
 
-- [Adam Najmi Zidan]([link_ke_profil_1](https://github.com/kodeaqua)): Full-stack Developer.
+- [Adam Najmi Zidan](https://github.com/kodeaqua): Full-stack Developer.
+- [Prayoga Anom Rahmatullah](https://github.com/anra09): Full-stack Developer.
 
 ## Lisensi
 
