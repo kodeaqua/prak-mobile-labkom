@@ -7,7 +7,7 @@ Repository ini berisi materi Praktikum Mobile Programming di Laboratorium Ilmu K
 
 ## List Proyek
 
-- [Placeholder](https://github.com/kodeaqua): Lorem ipsum dolor sir amet.
+- [REST API Backend](rest-api-backend): REST API Backend untuk proyek [restapi](restapi).
 
 ## Kontributor
 
