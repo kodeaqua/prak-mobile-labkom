@@ -1,6 +1,6 @@
 # <div align="center">Praktikum Mobile Programming</div>
 
-Repository ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu Komputer](https://github.com/MAROON-LABKOM) tahun 2022-2023. Semoga materi ini dapat bermanfaat bagi para mahasiswa dan menginspirasi untuk membuat proyek-proyek baru yang kreatif dan inovatif.
+Repositori ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu Komputer](https://github.com/MAROON-LABKOM) tahun 2022-2023. Semoga materi ini dapat bermanfaat bagi para mahasiswa dan menginspirasi untuk membuat proyek-proyek baru yang kreatif dan inovatif.
 
 ## Requirements
 - [Setting up development environment](https://drive.google.com/file/d/1ilsSEjIOLKVrs1WMRtbTtLtxyFZP_Cb6/view?usp=share_link)
