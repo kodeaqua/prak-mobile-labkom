@@ -8,6 +8,7 @@ Repositori ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu 
 ## List Proyek
 
 - [REST API Backend](rest-api-backend): REST API Backend untuk proyek [restapi](restapi).
+- [REST API Flutter Client](restapi): REST API Flutter Client untuk proyek [rest-api-backend](rest-api-backend).
 
 ## Kontributor
 
