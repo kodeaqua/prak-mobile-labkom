@@ -1,4 +1,4 @@
-# <div align="center">Selamat datang!</div>
+# <div align="center">Praktikum Mobile Programming</div>
 
 Repository ini berisi materi Praktikum Mobile Programming di Laboratorium Ilmu Komputer (@MAROON-LABKOM) tahun 2022-2023. Semoga materi ini dapat bermanfaat bagi para mahasiswa dan menginspirasi untuk membuat proyek-proyek baru yang kreatif dan inovatif.
 
