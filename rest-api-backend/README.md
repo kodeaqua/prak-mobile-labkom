@@ -4,7 +4,7 @@ Folder ini berisi backend untuk proyek mobile rest-api.<br>
 <b>Catatan:</b> Pastikan sudah mengikuti video instalasi di folder utama!
 
 ## Instalasi
-1. Clone repository dengan perintah: <br> ```git clone https://github.com/xxxxxx/xxxxx.git```
+1. Clone repository dengan perintah: <br> ```git clone https://github.com/kodeaqua/prak-mobile-labkom.git```
 2. Masuk ke dalam direktori rest-api-backend dengan perintah: <br> ```cd rest-api-backend```
 3. Install paket-paket yang dibutuhkan dengan perintah: <br> ```composer install```
 4. Copy file .env.example ke file .env di Windows dengan perintah: <br> ```copy .env.example .env``` <br> atau di Linux/Mac dengan perintah: <br> ```cp .env.example .env```
