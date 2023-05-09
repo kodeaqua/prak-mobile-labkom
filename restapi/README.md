@@ -11,8 +11,9 @@ Folder ini berisi client untuk proyek mobile rest-api.<br>
 
 ## Kontributor
 
-- [Adam Najmi Zidan]([link_ke_profil_1](https://github.com/kodeaqua)): Full-stack Developer.
+- [Adam Najmi Zidan](https://github.com/kodeaqua): Full-stack Developer.
+- [Prayoga Anom Rahmatullah](https://github.com/anra09): Full-stack Developer.
 
 ## Lisensi
 
-Proyek-proyek di dalam repository ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek-proyek di dalam repositori ini dilisensikan di bawah [MIT License](LICENSE).

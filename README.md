@@ -7,6 +7,7 @@ Repositori ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu 
 
 ## List Proyek
 
+- [SQFLite CRUD](sqflite_crud): Modeling dan CRUD (Create, Read, Update, Delete) menggunakan pustaka [SQFlite](https://pub.dev/packages/sqflite).
 - [REST API Backend](rest-api-backend): REST API Backend untuk proyek [restapi](restapi).
 - [REST API Flutter Client](restapi): REST API Flutter Client untuk proyek [rest-api-backend](rest-api-backend).
 
@@ -14,7 +15,8 @@ Repositori ini berisi materi Praktikum Mobile Programming di [Laboratorium Ilmu 
 
 - [Adam Najmi Zidan](https://github.com/kodeaqua): Full-stack Developer.
 - [Prayoga Anom Rahmatullah](https://github.com/anra09): Full-stack Developer.
+- [Learn Flutter With Me](https://learnflutterwithme.com/): Flutter Developer
 
 ## Lisensi
 
-Proyek-proyek di dalam repository ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek-proyek di dalam repositori ini dilisensikan di bawah [MIT License](LICENSE).

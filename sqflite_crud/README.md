@@ -13,7 +13,8 @@ Folder ini berisi materi modeling dan CRUD (Create, Read, Update, Delete) menggu
 
 - [Learn Flutter With Me](https://learnflutterwithme.com/): Flutter Developer
 - [Adam Najmi Zidan](https://github.com/kodeaqua): Full-stack Developer.
+- [Prayoga Anom Rahmatullah](https://github.com/anra09): Full-stack Developer.
 
 ## Lisensi
 
-Proyek-proyek di dalam repository ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek-proyek di dalam repositori ini dilisensikan di bawah [MIT License](LICENSE).
