@@ -1,16 +1,19 @@
-# sqflite_crud
+# <div align="center">REST API Flutter Client</div>
 
-A new Flutter project.
+Folder ini berisi materi modeling dan CRUD (Create, Read, Update, Delete) menggunakan pustaka [SQFlite](https://pub.dev/packages/sqflite)<br>
+<b>Catatan:</b> Pastikan sudah mengikuti video instalasi di folder utama!
 
-## Getting Started
+## Instalasi
+1. Clone repository dengan perintah: <br> ```git clone https://github.com/kodeaqua/prak-mobile-labkom.git```
+2. Masuk ke dalam direktori restapi dengan perintah: <br> ```cd sqflite_crud```
+3. Install paket-paket yang dibutuhkan dengan perintah: <br> ```flutter pub get```
+4. Jalankan proyek dengan perintah: <br> ```flutter run```
 
-This project is a starting point for a Flutter application.
+## Kontributor
 
-A few resources to get you started if this is your first Flutter project:
+- [Learn Flutter With Me](https://learnflutterwithme.com/): Flutter Developer
+- [Adam Najmi Zidan](https://github.com/kodeaqua): Full-stack Developer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Lisensi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyek-proyek di dalam repository ini dilisensikan di bawah [MIT License](LICENSE).
