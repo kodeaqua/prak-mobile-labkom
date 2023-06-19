@@ -180,36 +180,36 @@ class _HomeScreenState extends State<HomeScreen> {
                         height: MediaQuery.of(context).size.height * 0.3,
                         width: MediaQuery.of(context).size.width * 0.8,
                         child: ListView(
-                          children: [
+                          children: const [
                             ListTile(
                               leading: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
-                                children: const [
+                                children: [
                                   Icon(Icons.person),
                                 ],
                               ),
-                              title: const Text("learnflutterwithme"),
-                              subtitle: const Text("Developer"),
+                              title: Text("learnflutterwithme"),
+                              subtitle: Text("Developer"),
                             ),
                             ListTile(
                               leading: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
-                                children: const [
+                                children: [
                                   Icon(Icons.person),
                                 ],
                               ),
-                              title: const Text("Adam Najmi Zidan"),
-                              subtitle: const Text("Developer"),
+                              title: Text("Adam Najmi Zidan"),
+                              subtitle: Text("Developer"),
                             ),
                             ListTile(
                               leading: Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
-                                children: const [
+                                children: [
                                   Icon(Icons.person),
                                 ],
                               ),
-                              title: const Text("Prayoga Anom R."),
-                              subtitle: const Text("Developer"),
+                              title: Text("Prayoga Anom R."),
+                              subtitle: Text("Developer"),
                             )
                           ],
                         )),
@@ -245,9 +245,9 @@ class _HomeScreenState extends State<HomeScreen> {
                   : ListView(
                       children: snapshot.data!.map((item) {
                         return ListTile(
-                          leading: Column(
+                          leading: const Column(
                             mainAxisAlignment: MainAxisAlignment.center,
-                            children: const [
+                            children: [
                               Icon(Icons.star),
                             ],
                           ),
@@ -263,9 +263,9 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       floatingActionButton: FloatingActionButton.extended(
           tooltip: "Tambah data",
-          label: Row(
+          label: const Row(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: const [
+            children: [
               Icon(Icons.save),
               Padding(padding: EdgeInsets.symmetric(horizontal: 4)),
               Text("Tambah")
